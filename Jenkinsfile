@@ -33,7 +33,7 @@ EOF
 
         stage('Deploy') {
             steps {
-                sh 'echo Deploy Stage (dummy for now)'
+                sh 'echo Deploy Stage'
             }
         }
     }
